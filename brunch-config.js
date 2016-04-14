@@ -3,5 +3,10 @@ module.exports = {
         javascripts: {
             joinTo: 'app.js'
         }
-    }
+    },
+    modules: {
+		autoRequire: {
+			'app.js': ['app']
+		}
+	}
 }

@@ -1,6 +1,6 @@
 {
   "name": "brunch-with-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brunch with TypeScript",
   "scripts": {
     "start": "brunch watch --server",
